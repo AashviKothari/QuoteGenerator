@@ -1,0 +1,41 @@
+#quoteDisplay{
+    border: 4px groove black;
+    border-radius: 20px;
+    font-size: 3em;
+    background-color: rgb(208, 166, 228);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+#genbut{
+    font-size: 2em;
+    border-radius: 50px;
+    margin-top: 30px;
+    background-color: rgba(147, 74, 180, 0.432);
+}
+.quoHead{
+    margin: auto;
+    background-color: rgb(117, 69, 206);
+    font-size: 7em;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    padding: 14px;
+    
+    
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    background-color:  rgb(117, 69, 206);
+
+}
+body{
+    background-color: rgb(117, 69, 206);
+    /* background-color: #f7e4fd; */
+    /* background-image: -webkit-linear-gradient(60deg,#71dddd 50%, #d3ece8 50%); */
+    min-height: 100px;
+
+}
